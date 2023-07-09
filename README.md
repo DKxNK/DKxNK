@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=XE%2bbfMII&id=4291640F71A27A15A44E6183A3499DC163DF18B8&thid=OIP.XE-bfMIIe3WcTqXjqfGgQgHaCO&mediaurl=https%3a%2f%2f1.bp.blogspot.com%2f-7A4WynwLsMw%2fXbBpCXG8fHI%2fAAAAAAAAMt4%2fuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2fs1600%2f2000_600px.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5c4f9b7cc2087b759c4ea5e3a9f1a042%3frik%3duBjfY8GdSaODYQ%26pid%3dImgRaw%26r%3d0&exph=480&expw=1600&q=Developer+Banner&simid=608040371719271580&FORM=IRPRST&ck=F017BFCF70DFA68FA72511DD73303985&selectedIndex=34)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nalinga Kumarasiri</h1>
 <h3 align="center">I am presently a university student looking for on-hand experiences and acquiring new knowledge in the IT and Software fields. Seeking for a position with a forward-thinking company where I can succeed, perform, and reach my full potential.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
