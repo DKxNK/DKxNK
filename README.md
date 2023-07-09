@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)]
 <h1 align="center">Hi 👋, I'm Nalinga Kumarasiri</h1>
 <h3 align="center">I am presently a university student looking for on-hand experiences and acquiring new knowledge in the IT and Software fields. Seeking for a position with a forward-thinking company where I can succeed, perform, and reach my full potential.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
