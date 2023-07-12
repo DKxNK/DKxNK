@@ -32,8 +32,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DKxNK&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DKxNK&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkxnk&show_icons=true&locale=en&layout=compact" alt="dkxnk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dkxnk&show_icons=true&locale=en" alt="dkxnk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dkxnk&" alt="dkxnk" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DKxNK&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
