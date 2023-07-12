@@ -42,5 +42,7 @@
   <a href="https://github.com/DKxNK/github-readme-stats"><img alt="DKxNK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKxNK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DKxNK&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+<p align="center">
+ <a href="https://github.com/DKxNK/github-readme-stats"><img alt="DK's GitHub Contributor Stats" src="https://github-contributor-stats.vercel.app/api?username=DKxNK&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" /></a>
+</p>
