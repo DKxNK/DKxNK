@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 <h4 align="center">Undergraduate</h4> </br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/DKxNK/DKxNK/blob/main/code%20loop.gif">
 
 <div style="display: flex;">
   <img src="https://komarev.com/ghpvc/?username=dkxnk&label=Profile%20views&color=0e75b6&style=flat" alt="dkxnk" />
