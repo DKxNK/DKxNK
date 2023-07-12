@@ -1,3 +1,4 @@
+![logo](https://github.com/DKxNK/DKxNK/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Nalinga Kumarasiri</h1>
 <h3 align="center">I am presently a university student looking for on-hand experiences and acquiring new knowledge in the IT and Software fields.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
