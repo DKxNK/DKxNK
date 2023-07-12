@@ -46,3 +46,7 @@
 <p align="center">
  <a href="https://github.com/DKxNK/github-readme-stats"><img alt="DK's GitHub Contributor Stats" src="https://github-contributor-stats.vercel.app/api?username=DKxNK&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" /></a>
 </p>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Good+bye+.+.+.+.;+.+.+.&center=true"></a>  
+</p>
