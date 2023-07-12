@@ -1,4 +1,4 @@
-![logo](https://github.com/DKxNK/DKxNK/blob/main/banner.png)</br>
+![logo]()</br>
 
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 <h4 align="center">Undergraduate</h4> </br>
