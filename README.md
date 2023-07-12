@@ -32,14 +32,14 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-    
-  <a href="https://github.com/DKxNK/github-readme-stats"><img alt="DKxNK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKxNK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- </p>
- <p align="center">
-   <a href="https://github.com/DKxNK/github-readme-stats"><img alt="DKxNK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DKxNK&show_icons=true&count_private=true&theme=react&hide_border=true&include_all_commits=true&bg_color=0D1117" /></a>
   <a href="https://github.com/DKxNK/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DKxNK's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DKxNK&theme=react&hide_border=false"/>
-    </a>
+    </a>  
+ </p>
+ 
+ <p align="center">
+   <a href="https://github.com/DKxNK/github-readme-stats"><img alt="DKxNK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DKxNK&show_icons=true&count_private=true&theme=react&hide_border=true&include_all_commits=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/DKxNK/github-readme-stats"><img alt="DKxNK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKxNK&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 ### 🔝 Top Contributed Repo
