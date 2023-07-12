@@ -3,9 +3,12 @@
 <h3 align="center">I am presently a university student looking for on-hand experiences and acquiring new knowledge in the IT and Software fields.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dkxnk&label=Profile%20views&color=0e75b6&style=flat" alt="dkxnk" /> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dkxnk&label=Profile%20views&color=0e75b6&style=flat" alt="dkxnk" />
 
-<p align="left"> <a href="https://twitter.com/dk_nalinga" target="blank"><img src="https://img.shields.io/twitter/follow/dk_nalinga?logo=twitter&style=for-the-badge" alt="dk_nalinga" /></a> </p>
+<a href="https://github.com/DKxNK" target="_blank"><img src="https://img.shields.io/github/followers/DKxNK?label=Follow&style=social" alt="Follow on GitHub"></a>
+</p>
+
 
 - 🌱 I’m currently learning **MEARN**
 
