@@ -9,7 +9,7 @@
   <a href="https://github.com/DKxNK" target="_blank"><img src="https://img.shields.io/github/followers/DKxNK?label=Follow&style=social" alt="Follow on GitHub"></a>
 </div>
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **React, Java**
 
